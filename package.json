@@ -1,0 +1,23 @@
+{
+  "name": "desktop_appmanager",
+  "version": "1.0.0",
+  "description": "Manage the desktop apps",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://username: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@github.com/arulkailasam/Desktop_AppManager.git"
+  },
+  "author": "Arul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arulkailasam/Desktop_AppManager/issues"
+  },
+  "homepage": "https://github.com/arulkailasam/Desktop_AppManager#readme",
+  "devDependencies": {
+    "electron": "^39.2.7"
+  }
+}
